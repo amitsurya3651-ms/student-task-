@@ -1,0 +1,8 @@
+{
+  "name": "Student Task Clock",
+  "description": "Student task manager featuring individual student user profiles with completed task history and overall progress summaries, automated recurring tasks (daily, weekly, monthly) with future instance generation, live study clock, priority levels, and reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
